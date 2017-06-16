@@ -1,0 +1,8 @@
+E:\postgraduate\大数据自动分析预测平台\素材\VS2010TablePractice\BootstrapTable\WebApplication1\bin\WebApplication1.dll
+E:\postgraduate\大数据自动分析预测平台\素材\VS2010TablePractice\BootstrapTable\WebApplication1\bin\WebApplication1.pdb
+E:\postgraduate\大数据自动分析预测平台\素材\VS2010TablePractice\BootstrapTable\WebApplication1\obj\Debug\WebApplication1.dll
+E:\postgraduate\大数据自动分析预测平台\素材\VS2010TablePractice\BootstrapTable\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\postgraduate\大数据自动分析预测平台\素材\VS2010TablePractice\BootstrapTable\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\postgraduate\大数据自动分析预测平台\素材\VS2010TablePractice\BootstrapTable\WebApplication1\bin\Newtonsoft.Json.dll
+E:\postgraduate\大数据自动分析预测平台\素材\VS2010TablePractice\BootstrapTable\WebApplication1\bin\Newtonsoft.Json.pdb
+E:\postgraduate\大数据自动分析预测平台\素材\VS2010TablePractice\BootstrapTable\WebApplication1\bin\Newtonsoft.Json.xml
